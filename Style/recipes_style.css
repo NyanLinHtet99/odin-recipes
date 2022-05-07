@@ -1,0 +1,37 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    line-height: 130%;
+}
+
+h1{
+    font-size: 130%;
+    color: chocolate;
+    text-align: center;
+}
+h2{
+    font-size: 120%;
+    color: chocolate;
+}
+p,ul,ol{
+    color: rgb(255, 166, 0);
+}
+figure{
+    font-size: 80%;
+    color: chocolate;
+}
+main{
+    text-align: center;
+}
+footer{
+    background-color: rgb(255, 166, 0);
+}
+a{
+    color: chocolate;
+}
+a:hover{
+    font-size: 90%;
+}
+strong{
+    color: chocolate;
+}
